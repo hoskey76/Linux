@@ -1,3 +1,16 @@
+# Overview
+Complete Graylog 5.1 install on Ubuntu-Server 22.04.3
+
+This is a collection documentation for my Graylog instance, I have tried to be as detailed as possible. As you will see, you can always run into some unknown obstacles so be ready to do your reasearch if that happens.
+
+To start this will be a single-node configuration. I will add more details about the settings of the server and the cluster as I move forward in the project.
+
+The end goal is to have an "enterprise-like" cluster running in my virtual environment.
+
+Begin with 'Defining System' to get started
+
+Please feel free to share your thoughts, I always welcome feedback!
+
 # Define Tool Versions
 I found it very helpful to define each component of the install to verify compatibility. Plus, this made it much easier to find the corresponding documentation I needed.
 
