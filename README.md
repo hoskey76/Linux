@@ -1,2 +1,2 @@
 # Linux
-Collections of Linux Project &amp; Tools
+Collection of Linux Project &amp; Tools
