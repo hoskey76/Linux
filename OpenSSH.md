@@ -28,6 +28,8 @@ Attached to: NAT
 
 Advanced-> Port Forwarding
 
+![NAT Adapter Setting](./assets/NAT_Adapter_Settings.png)
+
 Add port forwarding rule:
 
 Name: SSH Port Forwarding Rule
