@@ -14,9 +14,9 @@ If OpenSSH was installed and not enabled on boot
 	sudo systemctl start ssh.service
 	sudo systemctl status ssh
 
-# Configure VB Network
+# Configure VirtualBox Network
 
-Return ip for the NAT network adapter
+Return ip to retrieve IP to edit the NAT network adapter
 
 	ip a
 
