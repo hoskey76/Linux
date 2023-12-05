@@ -28,11 +28,11 @@ Attached to: NAT
 
 Advanced-> Port Forwarding
 
-![NAT Adapter Setting](./assets/NAT_Adapter_Settings.png)
+![NAT Adapter Setting](https://github.com/hoskey76/Assets/blob/main/NAT_Adapter_Settings.png)
 
 Add port forwarding rule:
 
-Name: SSH Port Forwarding Rule
+Name: Rule 1
 
 Protocol: TCP
 
@@ -43,6 +43,8 @@ Host Port: 2222
 Guest IP: 10.0.2.15 -> IP that we noted from adapter on server
 
 Guest Port: 22
+
+![Port Forwarding Rule](https://github.com/hoskey76/Assets/blob/main/VB_SSH_Port_FWD.png)
 
 # Start SSH Session
 
@@ -57,5 +59,7 @@ Host Name (or IP address): 127.0.0.1
 Port: 2222
 
 Connection type: SSH
+
+![PuTTY SSH Configuration](https://github.com/hoskey76/Assets/blob/main/PuTTY_Config.png)
 
 Under saved sessions name the session and save it to store this configuration for future use. I like to use putty so that I can save and edit apperence settings for each of my connections very easily.
