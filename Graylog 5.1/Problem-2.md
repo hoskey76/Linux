@@ -18,7 +18,8 @@ MongoDB was crashing before creating any logs so I was at a stand still, since I
 
 This wa a great leaning moment as I spent about 4 hours reading through the forums from my many google searches, until I found my way back on to the MongoDB site forum where I eventually found my answer.
 
-TIP: THE BEST PLACE TO START IS AT THE OFFICIAL FORUM!!!
+>[!TIP]
+>The best place to look for answers to problems with a specific tool, is usually the forum hosted by the developer!
 
 # Solutions
 
