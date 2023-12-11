@@ -12,7 +12,8 @@ Begin with 'Defining System' to get started
 Please feel free to share your thoughts, I always welcome feedback!
 
 # Define Tool Versions
-I found it very helpful to define each component of the install to verify compatibility. Plus, this made it much easier to find the corresponding documentation I needed.
+>[!TIP]
+>I found it very helpful to define each component of the install to verify compatibility. Plus, this made it much easier to find the corresponding documentation I needed.
 
 VirtualBox - 7.0.12
   
@@ -54,10 +55,10 @@ If you are using DHCP you can retrieve your Netowrk information from the server 
 
 # Order of install:
 
-1.Install OpenSSH {optional}
+1. Install OpenSSH {optional}
 
-2.Install MongoDB 6.0
+2. Install MongoDB 6.0
 
-3.Install ElasticSearch 7.10.2
+3. Install ElasticSearch 7.10.2
 
-4.Install Graylog 5.1
+4. Install Graylog 5.1
